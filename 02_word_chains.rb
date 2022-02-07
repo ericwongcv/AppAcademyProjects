@@ -82,6 +82,3 @@ if $PROGRAM_NAME == __FILE__
   # provide file name on command line
   p WordChainer.new(ARGV.shift).run("duck", "ruby")
 end
-
-
-#testing
